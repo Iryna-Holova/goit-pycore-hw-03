@@ -4,7 +4,7 @@ This repository contains solutions for four Python tasks. Each task is implement
 
 ## Task 1: Date Difference
 
-[**File:** `task_1.py`](task_1)
+[**File:** `task_1.py`](./task_1.py)
 
 ### Description
 
@@ -29,7 +29,7 @@ print(days)  # Outputs the number of days between today and October 9, 2023
 
 ## Task 2: Lottery Ticket
 
-[**File:** `task_2.py`](task_2)
+[**File:** `task_2.py`](./task_2)
 
 ### Description
 
@@ -53,7 +53,7 @@ print(numbers) # Outputs a list of 6 unique random numbers between 1 and 49
 
 ## Task 3: Phone Number Normalization
 
-[**File:** `task_3.py`](task_3)
+[**File:** `task_3.py`](./task_3)
 
 ### Description
 
@@ -96,7 +96,7 @@ Normalized numbers: ['+380671234567', '+380952345678', '+380441234567', '+380501
 
 ## Task 4: Upcoming Birthdays
 
-[**File:** `task_4.py`](task_4.py)
+[**File:** `task_4.py`](./task_4.py)
 
 ### Description
 
