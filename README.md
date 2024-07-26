@@ -1,4 +1,4 @@
-# Python Homework Solutions
+# Python Task Solutions
 
 This repository contains solutions for four Python tasks. Each task is implemented in a separate file and addresses a different problem. Below, you will find a brief description of each task and the corresponding solution.
 
